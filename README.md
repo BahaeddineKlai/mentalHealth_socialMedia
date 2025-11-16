@@ -64,16 +64,5 @@ npm start
 
 Le frontend sera disponible à : `http://localhost:3000`
 
----
 
-### 3️⃣ Utilisation
 
-1. Ouvrir le frontend dans le navigateur.
-2. Remplir le formulaire avec les informations demandées.
-3. Cliquer sur **Predict Happiness** pour voir le résultat.
-
----
-
-This version is **minimal, clear, and ready to follow**.
-
-If you want, I can also make a **short English version** for GitHub so it’s bilingual. Do you want me to do that?
